@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/prime-fit/static/css/main.4d0199c8.css",
+    "main.js": "/prime-fit/static/js/main.975b2295.js",
+    "static/media/fundo.jpg": "/prime-fit/static/media/fundo.4ab259838e57a535a55f.jpg",
+    "index.html": "/prime-fit/index.html",
+    "main.4d0199c8.css.map": "/prime-fit/static/css/main.4d0199c8.css.map",
+    "main.975b2295.js.map": "/prime-fit/static/js/main.975b2295.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d0199c8.css",
+    "static/js/main.975b2295.js"
+  ]
+}
