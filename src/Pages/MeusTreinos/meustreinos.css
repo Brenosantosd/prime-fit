@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+
+.containerMeusTreinos h1 {
+
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+     color: rgb(255, 179, 0);
+     font-size: 45px;
+     text-shadow: 5px 3px black;
+     margin-top: 110px;
+     
+
+
+}
+
+
+.mensagemVazia {
+  background-color: rgba(255, 255, 255, 0.85); /* Fundo claro com transparência leve */
+  color: #1a1a1a;                             /* Texto escuro para boa leitura */
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-align: center;
+  padding: 20px 25px;
+  border-radius: 12px;
+  margin: 30px auto;
+  max-width: 500px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);    /* Sombra suave */
+  border-left: 5px solid #0066cc;
+
+}

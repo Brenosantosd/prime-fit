@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.treinos{
+     margin-top: 30px;
+     margin-bottom: 50px;
+     border: 1px solid rgba(0, 0, 0, 0.272);
+     border-radius: 10px;
+     box-shadow: 5px 5px 5px 3px rgba(0, 0, 0, 0.544);
+     padding: 10px;
+     padding-bottom: 30px;
+     background-color: rgba(223, 222, 222, 0.937);
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.treinos h2{
+    font-size: 28px;
+}
+
+.titulo-home{ margin-top: 50px;
+    font-size: 50px;
+    background: linear-gradient(to right, transparent, white, transparent);
+    text-align: center;
+     font-family: "Oswald", sans-serif;
+     color: rgb(255, 179, 0);
+     text-shadow: 3px 5px black;
+    
+
+}
+
+.areabtn{
+     margin-bottom: -4px;
+}
+
+.botao {
+     padding: 10px;
+     font-family: "Montserrat", sans-serif;
+     border-radius: 10px;
+     cursor: pointer;
+     background-color: rgb(170, 174, 174);
+     color: white;
+     margin-left: 7px;
+     text-decoration: none;
+     
+}
